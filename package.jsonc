@@ -1,0 +1,5 @@
+{
+    "name": "nlohmann-json",
+    "version": "3.7.1",
+    "namespace": "nlohmann"
+}
